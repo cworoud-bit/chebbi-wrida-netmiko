@@ -24,3 +24,6 @@ def acces_netmiko():
 
 # Appel de la fonction
 acces_netmiko()
+def dire_salut():
+print("Salut, Git!")
+dire_salut()

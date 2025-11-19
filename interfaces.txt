@@ -1,5 +1,5 @@
 
-Wed Nov 19 20:28:22.491 UTC
+Wed Nov 19 21:10:42.554 UTC
 
 Interface                      IP-Address      Status          Protocol Vrf-Name
 MgmtEth0/RP0/CPU0/0            10.10.20.175    Up              Up       default 
