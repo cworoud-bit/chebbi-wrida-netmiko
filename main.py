@@ -21,9 +21,8 @@ def acces_netmiko():
     # Écrit les interfaces dans un fichier
     with open("interfaces.txt", "w") as f:
         f.write(interfaces)  # <-- ici on complète avec write()
-
+def acces_netmiko():
+    print("Salut Git!")
 # Appel de la fonction
 acces_netmiko()
-def dire_salut():
-print("Salut, Git!")
-dire_salut()
+
