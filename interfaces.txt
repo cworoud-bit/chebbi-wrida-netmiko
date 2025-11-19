@@ -1,0 +1,12 @@
+
+Wed Nov 19 20:28:22.491 UTC
+
+Interface                      IP-Address      Status          Protocol Vrf-Name
+MgmtEth0/RP0/CPU0/0            10.10.20.175    Up              Up       default 
+GigabitEthernet0/0/0/0         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/1         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/2         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/3         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/4         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/5         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/6         unassigned      Shutdown        Down     default 
