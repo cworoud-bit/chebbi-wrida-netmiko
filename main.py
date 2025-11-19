@@ -1,4 +1,4 @@
-"""
+
 from netmiko import ConnectHandler
 
 def acces_netmiko():
